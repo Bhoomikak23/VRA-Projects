@@ -6,7 +6,7 @@ This repository contains two immersive 3D web projects developed using *Three.js
 
 ##  Projects Overview
 
-### 1. Escape Island
+### 1. Escape Island (ThreeJS)
 
 *Escape Island* is a survival-themed 3D scene where users explore an island with boats, animated characters, birds in the sky, fish in the water, and realistic weather effects.
 
@@ -25,7 +25,7 @@ npm run dev
 
 
 
-### 2. Oceanwhirl
+### 2. Oceanwhirl (OpenGl)
 
 *Oceanwhirl* is a stylized 3D water-themed project with dynamic camera movements, sun and sky simulation, fish animations.
 
